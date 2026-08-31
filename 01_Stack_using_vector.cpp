@@ -4,7 +4,6 @@ using namespace std;
 class Stack{
     vector<int> v;
 public:
-
     void push(int val){
         v.push_back(val);
     }
