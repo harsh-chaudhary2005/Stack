@@ -17,6 +17,7 @@ public:
         return ll.size() == 0;
     }
 };
+
 int main(){
   Stack s;
  s.push(10);
